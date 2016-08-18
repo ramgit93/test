@@ -1,1 +1,1 @@
-check to see if new files is tracked by default in git
+check to see if new files is tracked by default in
